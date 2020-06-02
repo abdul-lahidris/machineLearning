@@ -1,0 +1,3 @@
+C:\Users\pc\source\repos\TaxiFarePrediction\obj\Debug\netcoreapp3.1\TaxiFarePrediction.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\TaxiFarePrediction\obj\Debug\netcoreapp3.1\TaxiFarePrediction.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\TaxiFarePrediction\obj\Debug\netcoreapp3.1\TaxiFarePrediction.AssemblyInfo.cs
